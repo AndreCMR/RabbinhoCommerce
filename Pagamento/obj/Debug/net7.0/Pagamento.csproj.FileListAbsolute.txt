@@ -1,0 +1,15 @@
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\bin\Debug\net7.0\Pagamento.deps.json
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\bin\Debug\net7.0\Pagamento.dll
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\bin\Debug\net7.0\Pagamento.pdb
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\bin\Debug\net7.0\RabbitLib.dll
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\bin\Debug\net7.0\RabbitLib.pdb
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\obj\Debug\net7.0\Pagamento.csproj.AssemblyReference.cache
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\obj\Debug\net7.0\Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\obj\Debug\net7.0\Pagamento.AssemblyInfoInputs.cache
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\obj\Debug\net7.0\Pagamento.AssemblyInfo.cs
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\obj\Debug\net7.0\Pagamento.csproj.CoreCompileInputs.cache
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\obj\Debug\net7.0\Pagamento.csproj.CopyComplete
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\obj\Debug\net7.0\Pagamento.dll
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\obj\Debug\net7.0\refint\Pagamento.dll
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\obj\Debug\net7.0\Pagamento.pdb
+E:\Projetos .Net\RabbinhoCommerce\Pagamento\obj\Debug\net7.0\ref\Pagamento.dll

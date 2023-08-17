@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AMdFbZKwqNFVFc3FWhePtxIx0oUn0d737gkC/eiK7L5QhbBJ5nDugqDki9VCf+JPyOaqWTb0xHh1SVV4JDyHsw==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos .Net\\RabbinhoCommerce\\RabbinhoCommerce.Api\\RabbinhoCommerce.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.fiap.com.br/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

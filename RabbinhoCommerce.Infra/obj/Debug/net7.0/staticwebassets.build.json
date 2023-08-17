@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "2Ccn27U05/c8JRuhXZhwDdTSPBClQtDH1MhID97nLiE=",
+  "Source": "RabbinhoCommerce.Infra",
+  "BasePath": "_content/RabbinhoCommerce.Infra",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\Projetos .Net\\RabbinhoCommerce\\RabbinhoCommerce.Domain\\RabbinhoCommerce.Domain.csproj",
+      "Version": 2,
+      "Source": "RabbinhoCommerce.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

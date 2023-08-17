@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RabbinhoCommerce.Infra": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50346;http://localhost:50347"
+    }
+  }
+}
