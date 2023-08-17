@@ -27,10 +27,6 @@ Ao desenvolver este sistema, aprendemos sobre várias tecnologias e conceitos im
 Esperamos que este projeto possa servir como um exemplo útil para outros desenvolvedores que desejam criar sistemas semelhantes.
 
 
-- `POST /api/pedidos`: Cria um novo pedido com os itens atualmente no carrinho de compras do cliente.
-- `GET /api/pedidos`: Retorna uma lista de todos os pedidos feitos pelo cliente.
-- `GET /api/pedidos/{pedidoId}`: Retorna informações detalhadas sobre um pedido específico.
-
 
 ## Melhorias
 
