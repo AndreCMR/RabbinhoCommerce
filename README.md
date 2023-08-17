@@ -23,7 +23,6 @@ Ao desenvolver este sistema, aprendemos sobre várias tecnologias e conceitos im
 - Uso do RabbitMQ para implementar mensagens assíncronas e processamento em segundo plano
 - Criação e gerenciamento de carrinhos de compras e pedidos
 - Gerenciamento de estoque e entrega de produtos
-- Teste unitário e integração contínua
 
 Esperamos que este projeto possa servir como um exemplo útil para outros desenvolvedores que desejam criar sistemas semelhantes.
 
