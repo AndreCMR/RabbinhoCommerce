@@ -31,10 +31,10 @@ Esperamos que este projeto possa servir como um exemplo útil para outros desenv
 ## Melhorias
 
 ## Validação de Dados
-Uma melhoria  será feita na controller de carrinho, essa melhoria será adicionar mais validações de dados para garantir que as informações fornecidas pelo cliente estejam corretas e completas. Isso será feito usando anotações de validação nos modelos de dados e adicionando verificações de validação personalizadas no código.
+será feita na controller de carrinho mais validações de dados para garantir que as informações fornecidas pelo cliente estejam corretas e completas. Isso será feito usando anotações de validação nos modelos de dados e adicionando verificações de validação personalizadas no código.
 
 ## Separação de Responsabilidades
-Outra melhoria que será feita é separar as responsabilidades da controller de carrinho em diferentes classes e serviços. Por exemplo, o cálculo do total do pedido e a criação do objeto `Pedido` serão movidos para um serviço separado, deixando a controller mais enxuta e focada em lidar com as requisições HTTP.
+Outra refatoraçao que será feita é separar as responsabilidades da controller de carrinho em diferentes classes e serviços. Por exemplo, o cálculo do total do pedido e a criação do objeto `Pedido` serão movidos para um serviço separado, deixando a controller mais enxuta e focada em lidar com as requisições HTTP.
 
 ## Integração com Serviços Externos
 Também será feita a integração da controller de carrinho com serviços externos, como sistemas de pagamento ou serviços de entrega. Isso permitirá que o cliente finalizasse o pedido e efetuasse o pagamento diretamente pelo sistema, sem precisar sair do site.
