@@ -1,0 +1,12 @@
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\bin\Debug\net7.0\RabbitLib.deps.json
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\bin\Debug\net7.0\RabbitLib.dll
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\bin\Debug\net7.0\RabbitLib.pdb
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\obj\Debug\net7.0\RabbitLib.csproj.AssemblyReference.cache
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\obj\Debug\net7.0\RabbitLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\obj\Debug\net7.0\RabbitLib.AssemblyInfoInputs.cache
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\obj\Debug\net7.0\RabbitLib.AssemblyInfo.cs
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\obj\Debug\net7.0\RabbitLib.csproj.CoreCompileInputs.cache
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\obj\Debug\net7.0\RabbitLib.dll
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\obj\Debug\net7.0\refint\RabbitLib.dll
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\obj\Debug\net7.0\RabbitLib.pdb
+E:\Projetos .Net\RabbinhoCommerce\RabbitLib\obj\Debug\net7.0\ref\RabbitLib.dll

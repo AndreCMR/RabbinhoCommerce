@@ -1,0 +1,15 @@
+E:\Projetos .Net\RabbinhoCommerce\Separacao\bin\Debug\net7.0\Separacao.deps.json
+E:\Projetos .Net\RabbinhoCommerce\Separacao\bin\Debug\net7.0\Separacao.dll
+E:\Projetos .Net\RabbinhoCommerce\Separacao\bin\Debug\net7.0\Separacao.pdb
+E:\Projetos .Net\RabbinhoCommerce\Separacao\bin\Debug\net7.0\RabbitLib.dll
+E:\Projetos .Net\RabbinhoCommerce\Separacao\bin\Debug\net7.0\RabbitLib.pdb
+E:\Projetos .Net\RabbinhoCommerce\Separacao\obj\Debug\net7.0\Separacao.csproj.AssemblyReference.cache
+E:\Projetos .Net\RabbinhoCommerce\Separacao\obj\Debug\net7.0\Separacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos .Net\RabbinhoCommerce\Separacao\obj\Debug\net7.0\Separacao.AssemblyInfoInputs.cache
+E:\Projetos .Net\RabbinhoCommerce\Separacao\obj\Debug\net7.0\Separacao.AssemblyInfo.cs
+E:\Projetos .Net\RabbinhoCommerce\Separacao\obj\Debug\net7.0\Separacao.csproj.CoreCompileInputs.cache
+E:\Projetos .Net\RabbinhoCommerce\Separacao\obj\Debug\net7.0\Separacao.csproj.CopyComplete
+E:\Projetos .Net\RabbinhoCommerce\Separacao\obj\Debug\net7.0\Separacao.dll
+E:\Projetos .Net\RabbinhoCommerce\Separacao\obj\Debug\net7.0\refint\Separacao.dll
+E:\Projetos .Net\RabbinhoCommerce\Separacao\obj\Debug\net7.0\Separacao.pdb
+E:\Projetos .Net\RabbinhoCommerce\Separacao\obj\Debug\net7.0\ref\Separacao.dll

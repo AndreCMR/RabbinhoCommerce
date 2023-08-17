@@ -1,0 +1,15 @@
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\bin\Debug\net7.0\Transportadora.deps.json
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\bin\Debug\net7.0\Transportadora.dll
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\bin\Debug\net7.0\Transportadora.pdb
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\bin\Debug\net7.0\RabbitLib.dll
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\bin\Debug\net7.0\RabbitLib.pdb
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\obj\Debug\net7.0\Transportadora.csproj.AssemblyReference.cache
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\obj\Debug\net7.0\Transportadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\obj\Debug\net7.0\Transportadora.AssemblyInfoInputs.cache
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\obj\Debug\net7.0\Transportadora.AssemblyInfo.cs
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\obj\Debug\net7.0\Transportadora.csproj.CoreCompileInputs.cache
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\obj\Debug\net7.0\Transportadora.csproj.CopyComplete
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\obj\Debug\net7.0\Transportadora.dll
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\obj\Debug\net7.0\refint\Transportadora.dll
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\obj\Debug\net7.0\Transportadora.pdb
+E:\Projetos .Net\RabbinhoCommerce\Transportadora\obj\Debug\net7.0\ref\Transportadora.dll
